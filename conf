@@ -1,0 +1,1 @@
+./configure --prefix=/tmp/jpeg-6b --without-x --disable-static --enable-shared
